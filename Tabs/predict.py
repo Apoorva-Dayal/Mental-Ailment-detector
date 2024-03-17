@@ -95,7 +95,6 @@ def app(df, X, y):
         st.write("FC6 NODE IS ",FC6)
         st.write("F4 NODE IS ",F4 )
         st.write("F8 NODE IS ",F8 )
-        st.write("T8 NODE IS ",T8 )
         st.write("AF4 NODE IS ",AF4)
         
     st.header("The values entered by user")
